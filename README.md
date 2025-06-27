@@ -59,17 +59,11 @@ The dataset contains the following files:
 score = 100 * (1 - np.sqrt(mean_squared_error(actual, predicted)))
 ```
 
-The closer the score is to **100**, the better.
-
 ---
 
-## 📈 Results
+## 📈 Leaderboard Rank
 
-Ranked **#112** out of hundreds of teams with a score of **89.88224**
-
----
-
-## 🏅 Rank Screenshot
+Ranked **#112** out of 7000+ participants with a score of **89.88224**
 
 ![Leaderboard Rank](Rank.png)
 
