@@ -8,10 +8,10 @@ As solar energy systems become mainstream in sustainable infrastructure, it is c
 
 ## 🗂️ Dataset Description
 
-The dataset contains the following files:
+The dataset contains the following files -
 
-- `train.csv`: 20,000 samples, 17 features
-- `test.csv`: 12,000 samples, 16 features
+- `train.csv` - 20,000 samples, 17 features
+- `test.csv` - 12,000 samples, 16 features
 
 ### 📌 Features:
 | Column | Description |
@@ -38,18 +38,18 @@ The dataset contains the following files:
 
 ## ⚙️ Models Used
 
-- 🔁 **Cross-validation:** `KFold`
-- 🧪 **Evaluation metric:**  
+- 🔁 **Cross-validation -** `KFold`
+- 🧪 **Evaluation metric -**  
   `Score = 100 × (1 - sqrt(MSE))`
-- 🧠 **Algorithms:**
+- 🧠 **Algorithms -**
   - LightGBM
   - CatBoost
   - XGBoost
   - Ridge Regression
   - ExtraTreesRegressor
   - TabNet
-- 🔍 **Hyperparameter Tuning:** Optuna
-- 📊 **Explainability:** SHAP (SHapley Additive exPlanations)
+- 🔍 **Hyperparameter Tuning -** Optuna
+- 📊 **Explainability -** SHAP (SHapley Additive exPlanations)
 
 ---
 
@@ -66,5 +66,3 @@ score = 100 * (1 - np.sqrt(mean_squared_error(actual, predicted)))
 Ranked **#112** out of 7000+ participants with a score of **89.88224**
 
 ![Leaderboard Rank](Rank.png)
-
-
