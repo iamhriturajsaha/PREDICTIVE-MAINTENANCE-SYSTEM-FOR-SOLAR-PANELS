@@ -1,4 +1,4 @@
-# 🌞 PREDICTIVE MAINTENANCE SYSTEM FOR SOLAR PANELS
+# 🌞 Predictive Maintenance System for Solar Panels
 
 ## 🧠 Problem Statement
 
@@ -58,7 +58,6 @@ The dataset contains the following files -
 ```python
 score = 100 * (1 - np.sqrt(mean_squared_error(actual, predicted)))
 ```
-
 ---
 
 ## 📈 Leaderboard Rank
