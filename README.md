@@ -58,6 +58,7 @@ The dataset contains the following files -
 ```python
 score = 100 * (1 - np.sqrt(mean_squared_error(actual, predicted)))
 ```
+
 ---
 
 ## 📈 Leaderboard Rank
