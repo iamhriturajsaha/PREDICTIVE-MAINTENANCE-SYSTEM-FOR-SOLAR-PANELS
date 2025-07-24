@@ -1,4 +1,4 @@
-# 🌞 Predictive Maintenance System for Solar Panels
+# 🌞Predictive Maintenance System for Solar Panels
 
 ## 🎯 Project Overview
 
