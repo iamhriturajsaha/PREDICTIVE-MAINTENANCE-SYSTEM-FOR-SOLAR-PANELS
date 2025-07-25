@@ -129,7 +129,7 @@ Implemented **SHapley Additive exPlanations** for -
 ### Competition Performance
 - **Final Rank** - #112 out of 7500 participants
 - **Final Score** - 89.88224
-- **Percentile** - Top 1.6%
+- **Percentile** - Top 1.5%
 - **Cross-Validation Score** - 89.92 ± 0.15
 
 ![Leaderboard Rank](Rank.png)
